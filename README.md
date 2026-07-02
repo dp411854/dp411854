@@ -53,15 +53,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dp411854&theme=tokyonight"/>
-</p>
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
----
-
 ## 🎯 Certifications
 
 - Data Structures and Algorithms Using Python — **Infosys**
