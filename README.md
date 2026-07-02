@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student at **Galgotias College Of Engineering And Technology**
-- 🐍 Learning Python Programming, Data Structures & Algorithms, AI, and Web Development
-- 💻 Passionate about building practical software solutions and improving problem-solving skills
-- 🚀 Preparing for internships and placement opportunities
-- ✍️ Learning advanced concepts in Software Engineering and System Design
+- 🎓 **B.Tech Computer Science Engineering student at Galgotias College Of Engineering And Technology**
+- 🐍 **Learning Python Programming, Data Structures & Algorithms, AI, and Web Development**
+- 💻 **Passionate about building practical software solutions and improving problem-solving skills**
+- 🚀 **Preparing for internships and placement opportunities**
+- ✍️ **Learning advanced concepts in Software Engineering and System Design**
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -40,21 +40,15 @@
 `Spring Boot` • `System Design` • `DSA` • `AI/ML Fundamentals`
 
 </div>
-
+---
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=[dp411854]&show_icons=true&theme=tokyonight"/>
 <br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[dp411854]&theme=tokyonight"/>
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[dp411854]&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -62,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=[dp411854]&theme=onestar&no-frame=true"/>
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
@@ -78,28 +72,29 @@
 - Smart English Basics for Professionals — **Professional Communication Training**
 
 ---
-
 ## 🏆 Achievements & Highlights
 
 <div align="center">
 ```text
-📚 Strong foundation in OOP, DSA, and Software Engineering principles
-💻 Building practical projects to apply theoretical knowledge
-🎯 Focused on problem-solving with a disciplined learning approach
-🤝 Eager to contribute to open-source and collaborative projects
-🏆 Certificate of Appreciation for Story Writing during the Student Induction Program at Galgotias College of Engineering and Technology (GCET)
-💡 Participated in Hackathons, Ideathons, and Article Writing Competitions focused on emerging technologies
+📚 Strong foundation in OOP, DSA, and Software Engineering principles<br>
+💻 Building practical projects to apply theoretical knowledge<br>
+🎯 Focused on problem-solving with a disciplined learning approach<br>
+🤝 Eager to contribute to open-source and collaborative projects<br>
+🏆 Certificate of Appreciation for Story Writing during the Student Induction Program at Galgotias College of Engineering and Technology (GCET)<br>
+💡 Participated in Hackathons, Ideathons, and Article Writing Competitions focused on emerging technologies<br>
 ```
 
 </div>
+
+---
 
 ##  🌐 Connect with Me
 
 <div align="center">
   
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarika-nath-pandey-4a545729a/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dp411854@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dp411854 )
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dp411854@gmail.com)
+ [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dp411854 )
     
 </div>
 
@@ -112,9 +107,7 @@
   
 </div>
 
----   
-
-
+---
 <h3 align="center">
 
 Keep Learning, Keep Building,<br>
@@ -123,6 +116,8 @@ Keep Growing 🚀 💪
 ⭐ From [Dwarika-Nath-Pandey](https://github.com/dp411854)
 </h3>
 
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2CBF&height=120&section=footer" width="100%"/>
 </div>
+---
