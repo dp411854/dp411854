@@ -51,6 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp411854&layout=compact&theme=tokyonight"/>
 </p>
 
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -80,7 +81,7 @@
 💻 Building practical projects to apply theoretical knowledge<br>
 🎯 Focused on problem-solving with a disciplined learning approach<br>
 🤝 Eager to contribute to open-source and collaborative projects<br>
-🏆 Certificate of Appreciation for Story Writing during the Student Induction Program at Galgotias College of Engineering and Technology (GCET)<br>
+🏆 Certificate of Appreciation for Story Writing during the Student Induction Program at Galgotias College of Engineering and Technology<br>
 💡 Participated in Hackathons, Ideathons, and Article Writing Competitions focused on emerging technologies<br>
 
 
@@ -93,7 +94,7 @@
 <div align="center">
   
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarika-nath-pandey-4a545729a/)
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dp411854@gmail.com)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dp411854@gmail.com)
  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dp411854 )
     
 </div>
