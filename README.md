@@ -44,13 +44,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dp411854&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dp411854&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp411854&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dp411854&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<br><br>
+<img src="https://streak-stats.demolab.com?user=dp411854&theme=tokyonight" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp411854&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
-
 
 ---
 
