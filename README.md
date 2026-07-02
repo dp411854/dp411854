@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student at **Galgotias University**
+- 🎓 B.Tech Computer Science Engineering student at **Galgotias College Of Engineering And Technology**
 - 🐍 Learning Python Programming, Data Structures & Algorithms, AI, and Web Development
 - 💻 Passionate about building practical software solutions and improving problem-solving skills
 - 🚀 Preparing for internships and placement opportunities
