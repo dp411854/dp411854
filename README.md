@@ -1,17 +1,14 @@
- <h1 align="center">Hi, I'm Dwarika Nath Pandey</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2CBF&height=200&section=header&text=Dwarika%20Nath%20Pandey&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
-<h3 align="center">
-B.Tech CSE Student | Python Developer | DSA Enthusiast <br>
-Galgotias College Of Engineering And Technology
-</h3>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Python;Exploring+AI+%26+Machine+Learning;Consistent+Learner+%7C+Problem+Solver;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+  
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+Student;Python+Programmer+%7C+DSA+Learner;AI+%26+Web+Development+Enthusiast;Content+Writer+%26+Tech+Explorer&font=Fira%20Code&center=true&color=00F7FF&width=600&height=50"/>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
-## About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering student at **Galgotias University**
 - 🐍 Learning Python Programming, Data Structures & Algorithms, AI, and Web Development
@@ -21,37 +18,30 @@ Galgotias College Of Engineering And Technology
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+### **Database & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</p>
+### **Currently Learning** 🔥
+`Spring Boot` • `System Design` • `DSA` • `AI/ML Fundamentals`
 
----
+</div>
 
-## Featured Projects
-
-### Python Data Structures & Algorithms Practice
-
-- **Tech:** Python
-- Implemented fundamental Data Structures & Algorithms using Python
-- Improved logical thinking and problem-solving through coding exercises
-
-### HTML & Web Basics Projects
-
-- **Tech:** HTML
-- Built beginner-level responsive web pages
-- Learned core web development concepts and page structuring
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -69,7 +59,7 @@ Galgotias College Of Engineering And Technology
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=onestar&no-frame=true"/>
@@ -79,7 +69,7 @@ Galgotias College Of Engineering And Technology
 
 ---
 
-## Certifications
+## 🎯 Certifications
 
 - Data Structures and Algorithms Using Python — **Infosys**
 - Advanced HTML — **Infosys**
@@ -89,26 +79,50 @@ Galgotias College Of Engineering And Technology
 
 ---
 
-## Achievements
+## 🏆 Achievements & Highlights
 
-- 🏆 Certificate of Appreciation for Story Writing during the Student Induction Program at Galgotias College of Engineering and Technology (GCET)
-- 💡 Participated in Hackathons, Ideathons, and Article Writing Competitions focused on emerging technologies
+<div align="center">
+```text
+📚 Strong foundation in OOP, DSA, and Software Engineering principles
+💻 Building practical projects to apply theoretical knowledge
+🎯 Focused on problem-solving with a disciplined learning approach
+🤝 Eager to contribute to open-source and collaborative projects
+🏆 Certificate of Appreciation for Story Writing during the Student Induction Program at Galgotias College of Engineering and Technology (GCET)
+💡 Participated in Hackathons, Ideathons, and Article Writing Competitions focused on emerging technologies
+```
+
+</div>
+
+##  🌐 Connect with Me
+
+<div align="center">
+  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwarika-nath-pandey-4a545729a/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dp411854@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dp411854 )
+    
+</div>
 
 ---
 
-## Connect with Me
+<div align="center">
+  
+  ### 💭 Quote of the Day
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+</div>
 
-GitHub: https://github.com/dp411854
+---   
 
-LinkedIn: https://www.linkedin.com/in/dwarika-nath-pandey-4a545729a/
-
-Email:dp411854@gmail.com
-
----
 
 <h3 align="center">
 
 Keep Learning, Keep Building,<br>
-Keep Growing 🚀
+Keep Growing 🚀 💪
 
+⭐ From [Dwarika-Nath-Pandey](https://github.com/dp411854)
 </h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2CBF&height=120&section=footer" width="100%"/>
+</div>
