@@ -40,16 +40,15 @@
 `Spring Boot` • `System Design` • `DSA` • `AI/ML Fundamentals`
 
 </div>
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/dp411854&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dp411854&show_icons=true&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/dp411854&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dp411854&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dp411854&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp411854&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -121,4 +120,3 @@ Keep Growing 🚀 💪
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2CBF&height=120&section=footer" width="100%"/>
 </div>
----
