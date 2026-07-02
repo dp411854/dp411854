@@ -44,11 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[dp411854]&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dp411854&show_icons=true&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[dp411854]&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dp411854&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[dp411854]&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp411854&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[dp411854]&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dp411854&theme=onestar&no-frame=true"/>
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
@@ -74,15 +74,15 @@
 ---
 ## 🏆 Achievements & Highlights
 
-<div align="center">
-```text
+<div align="left">
+
 📚 Strong foundation in OOP, DSA, and Software Engineering principles<br>
 💻 Building practical projects to apply theoretical knowledge<br>
 🎯 Focused on problem-solving with a disciplined learning approach<br>
 🤝 Eager to contribute to open-source and collaborative projects<br>
 🏆 Certificate of Appreciation for Story Writing during the Student Induction Program at Galgotias College of Engineering and Technology (GCET)<br>
 💡 Participated in Hackathons, Ideathons, and Article Writing Competitions focused on emerging technologies<br>
-```
+
 
 </div>
 
