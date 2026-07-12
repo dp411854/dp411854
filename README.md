@@ -78,6 +78,22 @@
 
 ---
 
+# 📖 Currently Learning
+
+<div align="center">
+
+| Python | Data Science | Machine Learning |
+|:------:|:------------:|:----------------:|
+| ✅ | ✅ | 🔄 |
+
+| DSA | System Design | Spring Boot |
+|:---:|:-------------:|:-----------:|
+| 🔄 | 🔄 | 🔄 |
+
+</div>
+
+---
+
 ##  🌐 Connect with Me
 
 <div align="center">
